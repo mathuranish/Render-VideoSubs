@@ -46,3 +46,7 @@ This project aims to create a website where users can upload videos, which will 
 - Extracted subtitles will be stored in Amazon DynamoDB.
 - Use the search functionality on the website to search for keywords or phrases within the subtitles.
 - Search results will display the time segments in the video where the keywords or phrases are mentioned in the subtitles.
+
+## Future work
+- Dockerise the project.
+- Host project on render.
